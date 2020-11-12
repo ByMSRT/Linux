@@ -13,4 +13,4 @@
 - **2005** : Linus apparaît sur la couverture de Businessweek avec une histoire qui salue Linux comme un succès commercial.
 - **2007** : Les fondations linux sont formées pour promouvoir la protection et la normalisation de linux linus est un collègue.
 - **2010** : Le système d'exploitation Android basé sur Linux déloge tous les autres utilisateurs de smartphones aux États-Unis et atteint la domination
-- **2011** :Linux fête ses 20 ans et alimente les supercalculateurs du monde. Bourses. Téléphones vise. Dossiers de santé. Grille intelligente. La liste continue.
+- **2011** : Linux fête ses 20 ans et alimente les supercalculateurs du monde. Bourses. Téléphones vise. Dossiers de santé. Grille intelligente. La liste continue.
